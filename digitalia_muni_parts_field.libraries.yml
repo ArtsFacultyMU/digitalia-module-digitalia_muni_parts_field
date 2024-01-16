@@ -1,0 +1,9 @@
+parts:
+  css:
+    component:
+      css/parts-widget.css: {}
+
+digitalia_muni_parts_field_parts:
+  css:
+    component:
+      css/digitalia-muni-parts-field-parts-widget.css: {}

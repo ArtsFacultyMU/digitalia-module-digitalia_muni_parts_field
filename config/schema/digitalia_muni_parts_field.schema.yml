@@ -1,0 +1,29 @@
+# Default value.
+field.value.parts:
+  type: mapping
+  label: Default value
+  mapping:
+    type:
+      type: string
+      label: Type
+    author:
+      type: string
+      label: Authors
+    title:
+      type: text
+      label: Title
+
+# Default value.
+field.value.digitalia_muni_parts_field_parts:
+  type: mapping
+  label: Default value
+  mapping:
+    type:
+      type: string
+      label: Type
+    author:
+      type: string
+      label: Author
+    title:
+      type: text
+      label: Title
